@@ -18,9 +18,9 @@ CREATE TABLE Customer (
 -- Inserting data into the Customer table
 INSERT INTO Customer (CustomerID, FirstName, LastName, Email, Phone, Address, City, State, ZipCode)
 VALUES
-    (1, 'Battu', 'Sai', 'Battusairam@email.com', '123-456-7890', '123 Main St', 'Anytown', 'CA', '12345'),
-    (2, 'malli', 'mahesh', 'maheshmalli@email.com', '987-654-3210', '456 Elm St', 'Othertown', 'NY', '54321'),
-    (3, 'Battu', 'Santhosh', 'battusanthosh@email.com', '555-123-7890', '789 Oak St', 'AnotherTown', 'TX', '67890');
+    (1, 'Kaidhathuli', 'priyanka', 'Kaidhathulipriyanka@gmail.com', '8179664954', '19-4-376', 'Tirupathi', 'AP', '517501'),
+    (2, 'Padiri', 'Yathish', 'Yathishkumar25@gmail.com', '630771234', '19-4-372', 'Tirupathi', 'AP', '517501'),
+    (3, 'naravula', 'Prasanya', 'Naravulaprasanya@gmail.com', '9177058237', '19-4-370', 'Tirupathi', 'AP', '517501');
 
 
 -- Create the Orders table
