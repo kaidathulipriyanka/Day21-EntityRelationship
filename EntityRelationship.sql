@@ -12,7 +12,7 @@ CREATE TABLE Customer (
     Address VARCHAR(255),
     City VARCHAR(100),
     State VARCHAR(50),
-    ZipCode VARCHAR(10)
+    ZipCode VARCHAR(10),
 );
 
 -- Inserting data into the Customer table
@@ -43,3 +43,5 @@ VALUES
 
 	select *from Orders;
 	select *from Customer;
+
+
