@@ -1,5 +1,5 @@
 
-create database EntityRelationship;
+create database EntityRelationship;  
 use EntityRelationship;
 
 -- Create the Customer table
